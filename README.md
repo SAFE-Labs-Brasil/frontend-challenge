@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/97542292/149010185-471d6eac-5f05-4772-8374-b1b4b0c34c02.png)
 
 
-# SAFE Labs Python Developer Challenge
+# SAFE Labs Frontend Developer Challenge
 
 ## Presentation
 
